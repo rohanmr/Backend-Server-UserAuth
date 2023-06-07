@@ -6,6 +6,12 @@ Tested API.
 
 Download the code and Run by following Steps.
 
+Steps:
+
+  npm i
+
+  npm start
+
 
 
 
