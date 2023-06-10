@@ -6,7 +6,9 @@ You can use this code for User Authentication.
 
 Tested API.
 
-Download the code and Run by following Steps.
+Download the code and Run. 
+
+following Steps:
 
 Steps:
 
