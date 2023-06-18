@@ -4,12 +4,11 @@ It is a Simple Backend Server Code for User Authentication.
 
 You can use this code for User Authentication.
 
-Tested API.
+Tested API With Postman.
 
 Download the code and Run by following Steps. 
 
- Following Steps:
-
+## Steps:
 
   npm i
 
