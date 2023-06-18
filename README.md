@@ -6,11 +6,10 @@ You can use this code for User Authentication.
 
 Tested API.
 
-Download the code and Run. 
+Download the code and Run by following Steps. 
 
-## Following Steps:
+ Following Steps:
 
-Steps:
 
   npm i
 
