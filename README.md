@@ -10,10 +10,11 @@ Download the code and Run by following Steps.
 
 ## Steps:
 
+```bash
   npm i
 
   npm start
-
+```
 
 
 
