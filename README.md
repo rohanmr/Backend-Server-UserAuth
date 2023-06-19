@@ -13,6 +13,8 @@ Download the code and Run by following Steps.
 ```bash
   npm i
 
+  #or
+   
   npm start
 ```
 
