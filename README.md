@@ -6,7 +6,7 @@ You can use this code for User Authentication.
 
 Tested API With Postman.
 
-Download the code and Run by following Steps. 
+Download the code and Run by the following Steps. 
 
 ## Steps:
 
